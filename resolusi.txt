@@ -1,5 +1,5 @@
 RESOLUSI 2023 : 
 - Belajar JavaScript
-- Belajar Python
+- Belajar Python (Utama)
 - Belajar Machine Learning
 - Siapkan Proposal Skripsi
