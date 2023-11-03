@@ -1,1 +1,2 @@
 Hai Hero
+* Lets make an AI Resolution
